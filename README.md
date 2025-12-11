@@ -1,4 +1,4 @@
-# Simulating the Stern-Gerlach Experiment: No Fancy Software Required
+# Simulating the Stern-Gerlach Experiment with Basic Python Tools
 
 This project demonstrates how to simulate the iconic Stern-Gerlach experiment using only basic Python libraries (NumPy, SciPy, Matplotlib) and fundamental numerical methods. The goal is to show that you can model sophisticated quantum experiments without expensive commercial software or specialized equipment.
 
@@ -105,4 +105,4 @@ The simulation uses the same underlying physics as commercial finite element sof
 
 ---
 
-*This project shows that you don't need fancy software to do fancy science—just good physics, good numerics, and a computer.*
+*This project shows that you can simulate real experimental physics problems with publicly available open source tools*
